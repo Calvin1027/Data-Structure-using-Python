@@ -1,3 +1,4 @@
 # Data-Structure-using-Python
 
-In this repogitory, It is used as my Review note of my course named "Data Structure". 
+This repository serves as my study notes for the 'Data Structure' course.
+

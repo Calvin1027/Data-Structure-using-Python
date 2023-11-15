@@ -1,4 +1,4 @@
-# Data-Structure-using-Python
+31# Data-Structure
 
 This repository serves as my study notes for the 'Data Structure' course.
 
